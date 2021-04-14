@@ -2,9 +2,12 @@
 * {
   box-sizing: border-box;
 }
+
+
 h1 {
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   text-align: center;
+  color: red;
 }
 
 .title { 
